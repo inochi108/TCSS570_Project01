@@ -2,7 +2,7 @@
 #include <time.h> 
 #include <stdlib.h>
 
-int MAX = 100;
+int MAX = 4000;
 int LARGEST = 3;
 
 int main() {
